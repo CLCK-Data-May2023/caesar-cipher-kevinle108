@@ -1,5 +1,3 @@
-## test comment
-
 sentence = input("Please enter a sentence: ")
 sentence = sentence.lower()
 
